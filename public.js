@@ -1,4 +1,5 @@
 //共用方法--菜鸟手写，大神勿喷。
+//GITHUB客户端试用
 var utils = (function () {
     var flag = "getComputedStyle" in window;
 
